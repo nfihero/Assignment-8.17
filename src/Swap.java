@@ -4,11 +4,10 @@ public class Swap {
         System.out.println("NumA: " + numA);
         System.out.println("numB: " + numB);
 
-        int before = numA;
+        int before = numA; //before is the temporary variable
         numA = numB;
         numB = before;
-        System.out.println("After swap:");
-        System.out.println("NumA: " + numA);
+        System.out.println("After swap: \nNumA: " + numA);
         System.out.println("numB: " + numB);
 
     }
