@@ -11,6 +11,5 @@ public class Swap {
         System.out.println("NumA: " + numA);
         System.out.println("numB: " + numB);
 
-
     }
 }
